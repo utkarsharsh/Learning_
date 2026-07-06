@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/utkarsharsh/Learning_/tree/master/0058-length-of-last-word) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/utkarsharsh/Learning_/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/utkarsharsh/Learning_/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
