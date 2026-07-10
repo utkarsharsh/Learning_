@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/utkarsharsh/Learning_/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/utkarsharsh/Learning_/tree/master/0058-length-of-last-word) |
+| [1189-maximum-number-of-balloons](https://github.com/utkarsharsh/Learning_/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/utkarsharsh/Learning_/tree/master/0119-pascals-triangle-ii) |
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/utkarsharsh/Learning_/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/utkarsharsh/Learning_/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
