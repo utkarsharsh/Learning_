@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/utkarsharsh/Learning_/tree/master/0024-swap-nodes-in-pairs) |
+| [0231-power-of-two](https://github.com/utkarsharsh/Learning_/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/utkarsharsh/Learning_/tree/master/1189-maximum-number-of-balloons) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/utkarsharsh/Learning_/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/utkarsharsh/Learning_/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
