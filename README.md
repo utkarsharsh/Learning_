@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/utkarsharsh/Learning_/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/utkarsharsh/Learning_/tree/master/0058-length-of-last-word) |
 | [1189-maximum-number-of-balloons](https://github.com/utkarsharsh/Learning_/tree/master/1189-maximum-number-of-balloons) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/utkarsharsh/Learning_/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Linked List
 |  |
 | ------- |
