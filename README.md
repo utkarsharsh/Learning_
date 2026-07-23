@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/utkarsharsh/Learning_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/utkarsharsh/Learning_/tree/master/0119-pascals-triangle-ii) |
 | [1288-remove-covered-intervals](https://github.com/utkarsharsh/Learning_/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarsharsh/Learning_/tree/master/1331-rank-transform-of-an-array) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarsharsh/Learning_/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/utkarsharsh/Learning_/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
