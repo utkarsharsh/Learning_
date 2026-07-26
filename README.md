@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarsharsh/Learning_/tree/master/0033-search-in-rotated-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/utkarsharsh/Learning_/tree/master/0119-pascals-triangle-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/utkarsharsh/Learning_/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/utkarsharsh/Learning_/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarsharsh/Learning_/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/utkarsharsh/Learning_/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/utkarsharsh/Learning_/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/utkarsharsh/Learning_/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/utkarsharsh/Learning_/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/utkarsharsh/Learning_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/utkarsharsh/Learning_/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/utkarsharsh/Learning_/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/utkarsharsh/Learning_/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarsharsh/Learning_/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarsharsh/Learning_/tree/master/3867-sum-of-gcd-of-formed-pairs) |
