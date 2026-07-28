@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/utkarsharsh/Learning_/tree/master/0058-length-of-last-word) |
 | [1189-maximum-number-of-balloons](https://github.com/utkarsharsh/Learning_/tree/master/1189-maximum-number-of-balloons) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/utkarsharsh/Learning_/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/utkarsharsh/Learning_/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarsharsh/Learning_/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/utkarsharsh/Learning_/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarsharsh/Learning_/tree/master/1331-rank-transform-of-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/utkarsharsh/Learning_/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarsharsh/Learning_/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarsharsh/Learning_/tree/master/0033-search-in-rotated-sorted-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/utkarsharsh/Learning_/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
