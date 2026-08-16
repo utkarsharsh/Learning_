@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/utkarsharsh/Learning_/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/utkarsharsh/Learning_/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/utkarsharsh/Learning_/tree/master/0058-length-of-last-word) |
 | [1189-maximum-number-of-balloons](https://github.com/utkarsharsh/Learning_/tree/master/1189-maximum-number-of-balloons) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/utkarsharsh/Learning_/tree/master/0005-longest-palindromic-substring) |
 | [0119-pascals-triangle-ii](https://github.com/utkarsharsh/Learning_/tree/master/0119-pascals-triangle-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/utkarsharsh/Learning_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/utkarsharsh/Learning_/tree/master/0005-longest-palindromic-substring) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarsharsh/Learning_/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utkarsharsh/Learning_/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/utkarsharsh/Learning_/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
