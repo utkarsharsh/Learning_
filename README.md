@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/utkarsharsh/Learning_/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/utkarsharsh/Learning_/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/utkarsharsh/Learning_/tree/master/0119-pascals-triangle-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarsharsh/Learning_/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/utkarsharsh/Learning_/tree/master/1288-remove-covered-intervals) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/utkarsharsh/Learning_/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/utkarsharsh/Learning_/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/utkarsharsh/Learning_/tree/master/0119-pascals-triangle-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/utkarsharsh/Learning_/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/utkarsharsh/Learning_/tree/master/0005-longest-palindromic-substring) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/utkarsharsh/Learning_/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
